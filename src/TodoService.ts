@@ -1,4 +1,4 @@
-import TodoTypes from "./todo";
+import type { TodoTypes } from "./todo";
 
 const LOCAL_STORAGE_KEY = 'todos';
 

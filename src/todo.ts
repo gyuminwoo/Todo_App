@@ -1,8 +1,6 @@
 // Todoの型定義
-interface TodoTypes {
+export interface TodoTypes {
     id:number;
     text:string;
     completed:boolean;
 }
-
-export default TodoTypes;
